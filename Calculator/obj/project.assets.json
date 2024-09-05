@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_DSK_data\\data\\_code\\C#\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\_DSK_data\\data\\_code\\C#\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\遥希\\.nuget\\packages\\",
-      "outputPath": "C:\\_DSK_data\\data\\_code\\C#\\Calculator\\obj\\",
+      "outputPath": "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\遥希\\AppData\\Roaming\\NuGet\\NuGet.Config",
