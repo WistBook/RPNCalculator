@@ -77,9 +77,7 @@ class Program{
         return queue;
     }
 
-
-
-    static int Calculate(Queue<string> queue){
+    static void Calculate(Queue<string> queue, out int result){
         Stack<int> stack = new Stack<int>();
         var i = 0;
         int itemp , pop1, pop2;
@@ -111,7 +109,8 @@ class Program{
                 }
             }
         }
-        return stack.Pop();
+        result = stack.Pop();
+        return;
     }
     static int Pow(int a, int b){
         int result = 1;
@@ -130,9 +129,9 @@ class Program{
         try{
             var converted = ConvertToRPN(input);
             Console.WriteLine(String.Join(" ", converted));
-            if(IsDouble) {}
-            var result = Calculate(converted);
-            Console.WriteLine(result);
+            // if(IsDouble) double result = 
+            if(!IsDouble) Calculate(converted,out int result);
+            // Console.WriteLine(result);
             return;
         }
         catch(ArgumentException){
