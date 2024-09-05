@@ -1,0 +1,14 @@
+C:\_DSK_data\data\_code\C#\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\_DSK_data\data\_code\C#\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\_DSK_data\data\_code\C#\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\_DSK_data\data\_code\C#\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\_DSK_data\data\_code\C#\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\_DSK_data\data\_code\C#\Calculator\obj\Debug\net8.0\ref\Calculator.dll
