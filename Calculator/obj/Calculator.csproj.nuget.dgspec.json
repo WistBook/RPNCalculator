@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj": {}
+    "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "c:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj": {
+    "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "c:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\遥希\\.nuget\\packages\\",
-        "outputPath": "c:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\obj\\",
+        "outputPath": "C:\\_DSK_data\\data\\_code\\!GitHub\\RPNCalculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\遥希\\AppData\\Roaming\\NuGet\\NuGet.Config",
